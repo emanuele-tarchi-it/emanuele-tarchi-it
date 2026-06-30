@@ -1,82 +1,82 @@
-🧑‍⚕️ Emanuele Tarchi — Healthcare Assistant building real-world tech solutions
 
-From hospital floors to cloud engineering: turning real problems into digital tools
+🧑‍⚕️ Emanuele Tarchi — From Healthcare Operations to Cybersecurity Governance
 
-Hi! I’m Emanuele, a Healthcare Assistant (OSS) in an Italian hospital, currently building my path into Cloud & DevOps.
-Every project I create comes from a real problem I’ve seen on the field — no abstract exercises, just practical solutions designed to help people in their daily work.
+Building real-world, risk-aware systems for critical environments
 
-I believe in technology that is simple, useful, and human-centered.
+I’m Emanuele, a Healthcare Assistant (OSS) transitioning into Cybersecurity Governance & GRC.  
+After years in high‑pressure clinical environments, I’ve learned how crucial procedures, risk management, resilience, and human‑centered systems are.
 
----
+Today, I apply that mindset to cybersecurity.
 
-🔭 What I’m working on right now
-
-• Studying Python and programming fundamentals
-• Starting my AWS journey (Cloud Practitioner → Solutions Architect)
-• Migrating my real-world projects into AWS serverless architectures
-• Building a portfolio that reflects my technical growth and my way of thinking
-
+My projects are not academic exercises:  
+they are real systems, born from real problems, designed with risk thinking, auditability, and governance in mind.
 
 ---
 
-🚀 Main Projects
-
-IoT Workforce Ecosystem
-
-An IoT-based system for managing home caregiver time tracking, born from a real family need.
-Designed to be simple, robust, and error-proof.
-➡️ AWS version in progress
-
-Clinical Triage Decision System
-
-A decision-support engine based on real hospital triage protocols, designed to support (not replace) healthcare professionals.
-➡️ Ideal for Lambda + API Gateway + DynamoDB
-
-Practical Python Tools
-
-Small utilities created to solve real problems quickly:
-
-• Bulk Renamer
-• CSV Cleaner
-• CSV → JSON Converter
-
+🎯 What I’m focusing on now
+- ISO 27001 Lead Auditor (in progress)  
+- NIS2 compliance & ENISA guidelines  
+- Risk management (ISO 31000, ISO 27005)  
+- Business continuity (ISO 22301)  
+- Building a GRC cyber portfolio based on real-world systems  
+- Mapping my projects to ISO 27001 & NIS2 controls  
+- Studying governance for critical sectors (healthcare, maritime, aerospace)
 
 ---
 
-🛠️ Technologies I’m learning
+🚀 Featured Projects (GRC Layer Added)
 
-• Python
-• AWS (Lambda, API Gateway, DynamoDB, S3)
-• Git & GitHub
-• IoT (M5Stack, MQTT)
-• Linux basics
+Tuscany Triage System — Clinical Decision Support
+A modular CDSS with audit logging, risk alerts, congruency checks, and resilience logic.  
+Now extended with:
+- ISO 27001 control mapping  
+- NIS2 compliance considerations  
+- Threat model  
+- Risk assessment  
+- Audit plan
 
+CareLink — IoT Clinical Telemetry System
+A mesh-based telemetry system designed for resilience and safety.  
+Now extended with:
+- Business continuity considerations  
+- OT/IoT security mapping  
+- Logging & audit compliance  
+- Risk register  
+- NIS2 sector mapping (Healthcare)
 
 ---
 
-🗺️ Cloud Roadmap
+📚 GRC Portfolio (Work in Progress)
+- ISO 27001 Gap Analysis  
+- NIS2 Checklist  
+- Risk Register  
+- Business Impact Analysis  
+- Audit Plan  
+- Policy Templates  
+- Threat Models  
+- Data Flow Diagrams
 
-• AWS Cloud Practitioner
-• AWS Solutions Architect Associate
-• Migrate my projects to serverless architectures
-• Build a complete cloud portfolio
-• Transition into Cloud/DevOps roles
+---
 
+🧩 Technologies & Frameworks
+- ISO 27001  
+- NIS2  
+- ISO 31000  
+- ISO 22301  
+- ISO 27005  
+- Python  
+- IoT (ESP32, ESP-NOW, LoRa)  
+- Git & GitHub  
 
 ---
 
 💡 Why I’m doing this
+Healthcare taught me discipline, procedure, risk awareness, and human-centered design.  
+Cybersecurity governance is the natural evolution of that mindset.
 
-Working in healthcare taught me how much technology can help — or hinder — people.
-When designed well, it reduces errors, stress, and complexity.
-My goal is to bring this mindset into the cloud: technology that supports humans, not the other way around.
-
----
-
-📬 Contacts
-
-• GitHub: https://github.com/emanuele-tarchi-it
-• LinkedIn: http://linkedin.com/in/emanuele-tarchi-it
-
-
----
+I build systems that are:
+- resilient  
+- auditable  
+- safe  
+- clear  
+- human-first  
