@@ -23,7 +23,7 @@ My projects are not academic exercises: they are real-world systems and simulate
 
 ## 🚀 Featured Projects & GRC Portfolio
 
-### 🔬 01. [Aetheris Therapeutics S.p.A. — Enterprise Gap Analysis & ISO 27001 Readiness](https://github.com/emanuele-tarchi-it/grc-portfolio-case-study/tree/main/01-aetheris-therapeutics)
+### 🔬 01. [Aetheris Therapeutics S.p.A. — Enterprise Gap Analysis & ISO 27001 Readiness](https://github.com/emanuele-tarchi-it/grc-portfolio-case-study/blob/main/01-aetheris-therapeutics%2FREADME.md)
 Full-scope simulated audit and gap analysis for a biopharmaceutical firm. Features a complete end-to-end ISO 19011 audit cycle and ISO 27005 risk management lifecycle:
 * **Audit Execution:** Audit Plan (`AUD-PLAN`), Audit Trail (`AUD-TR`), and Findings Matrix (`NC_OFI_Matrix`).
 * **Risk Management:** ISO 27005 Risk Register ($P \times I$ scoring model) & Risk Treatment Plan (`RTP`) with Capex/Opex budgeting.
