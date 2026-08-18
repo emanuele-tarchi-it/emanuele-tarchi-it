@@ -14,7 +14,7 @@ My projects are not academic exercises: they are real-world systems and simulate
 ## 🎯 What I’m Focusing On Now
 
 * 📜 **ISC2 Certified in Cybersecurity (CC)** & Google Cybersecurity Professional
-* 🛡️ **ISO/IEC 27001:2022 Lead Auditor **
+* 🛡️ **ISO/IEC 27001:2022 Lead Auditor**
 * 🇪🇺 **EU Regulatory Compliance:** NIS2 Directive, EU AI Act (High-Risk AI Systems) & MDR UE 2017/745 (SaMD)
 * 🎲 **Risk Assessment & Methodology:** ISO/IEC 27005:2022, ISO 31000 & ISO 19011:2018 Audit Execution
 * 🏢 **Sector Focus:** Healthcare, Critical Infrastructure & High-Risk Regulated Environments
